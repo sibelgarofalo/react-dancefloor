@@ -1,0 +1,18 @@
+.App {
+  padding: 24px;
+  margin: 0 auto;
+}
+
+.grid {
+  margin: auto 0;
+  display: flex;
+  flex-wrap: wrap;
+  width: 500px;
+}
+
+.cell {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+
+}
